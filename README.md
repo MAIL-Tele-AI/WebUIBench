@@ -8,9 +8,7 @@
   <a href="https://huggingface.co/collections/zjunlp/worfbench-66fc28b8ac1c8e2672192ea1" target="_blank">📊Dataset</a> •
 </p>
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/zjunlp/WorFBench) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-![](https://img.shields.io/github/last-commit/zjunlp/WorFBench?color=green) 
 
 ## 💡 News
 
