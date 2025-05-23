@@ -21,13 +21,13 @@
 
 With the rapid advancement of Generative AI technology, Multimodal Large Language Models(MLLMs) have the potential to act as AI software engineers capable of executing complex web application development. Considering that the model requires a confluence of multidimensional sub-capabilities to address the challenges of various development phases, constructing a multi-view evaluation framework is crucial for accurately guiding the enhancement of  development efficiency. However, existing benchmarks usually fail to provide an assessment of sub-capabilities and focus solely on webpage generation outcomes. In this work, we draw inspiration from the principles of software engineering and further propose WebUIBench, a benchmark systematically designed to evaluate MLLMs in four key areas: **WebUI Perception**, **HTML Programming**, **WebUI-HTML Understanding**, and **WebUI-to-Code**. WebUIBench comprises **21K** high-quality question-answer pairs derived from over 0.7K real-world websites. The extensive evaluation of 29 mainstream MLLMs uncovers the skill characteristics and various weakness that models encountered during the development process. You can download our dataset from [huggingface](https://huggingface.co/xx)!
 
-![overview](./imgs/overview.PNG) 
+![overview](./imgs/overview.png) 
 
 ## 💡Evaluation Results
 
 The research team conducted a comprehensive evaluation of 29 mainstream multimodal large language models, including 7 closed-source models (such as GPT-4o, Gemini-1.5 Pro, and Claude-3.5-Sonnet) and 22 open-source models (such as the InternVL2.5 series and the Qwen2-VL series, with parameter sizes ranging from 2B to 78B).
 
-![eval_results](./imgs/eval_results.png)
+![eval_results](./imgs/eval_result.png)
 
 
 ## 🔧Installation
