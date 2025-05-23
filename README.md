@@ -2,10 +2,11 @@
 <h3 align="center"> A Comprehensive Benchmark for Evaluating Multimodal Large Language Models in WebUI-to-Code </h3>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/xx" target="_blank">📄arXiv</a> •
-  <a href="https://huggingface.co/papers/xx" target="_blank">🤗HFPaper</a> •
-  <a href="https://zjunlp.github.io/project/WorFBench/" target="_blank">🌐Web</a> •
-  <a href="https://huggingface.co/collections/zjunlp/worfbench-66fc28b8ac1c8e2672192ea1" target="_blank">📊Dataset</a> •
+  <a href="#" target="_blank">📄arXiv</a> •
+  <a href="#" target="_blank">🤗HFPaper</a> •
+  <a href="https://github.com/MAIL-Tele-AI/WebUIBench" target="_blank">GitHub</a> •
+  <a href="#" target="_blank">🌐Web</a> •
+  <a href="https://huggingface.co/datasets/Tele-AI-MAIL/WebUIBench" target="_blank">📊Dataset(🤗HF)</a> •
 </p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
