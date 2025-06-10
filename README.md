@@ -2,7 +2,7 @@
 <h3 align="center"> A Comprehensive Benchmark for Evaluating Multimodal Large Language Models in WebUI-to-Code </h3>
 
 <p align="center">
-  <a href="#" target="_blank">📄arXiv</a> •
+  <a href="http://arxiv.org/abs/2506.07818" target="_blank">📄arXiv</a> •
   <a href="#" target="_blank">🤗HFPaper</a> •
   <a href="https://github.com/MAIL-Tele-AI/WebUIBench" target="_blank">GitHub</a> •
   <a href="#" target="_blank">🌐Web</a> •
